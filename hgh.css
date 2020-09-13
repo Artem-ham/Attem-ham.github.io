@@ -1,0 +1,13 @@
+img {
+	width: 400px;
+	height: 300px;
+	border: none;
+}
+h1 {
+	text-shadow: 2px 2px 2px grey;
+	transition: 0.2s ease;
+}
+h1:hover {
+	text-shadow: 7px 7px 7px grey;
+	transition: 0.2s ease;
+}
